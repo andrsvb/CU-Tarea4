@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea4</string>
+    <string name="b_login">log in</string>
+    <string name="b_signin">sign in</string>
+    <string name="hint_password">contraseña</string>
+    <string name="hint_user">usuario</string>
+</resources>
